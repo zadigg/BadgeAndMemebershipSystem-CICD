@@ -10,6 +10,8 @@ public class BadgeDTO {
     private String status;
     private String badgeId;
 
+    // hahaha
+
     public BadgeDTO(String name, String status, String badgeId) {
         this.name = name;
         this.status = status;
